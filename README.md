@@ -18,7 +18,7 @@
 ![TestimonialSection](https://user-images.githubusercontent.com/107508295/191058388-1536f2c9-5fb5-486c-ac10-64bd40d59571.png)
 
 
-This project is basically about me learning about HTML, CSS and Bootstrap with diffferent i hope you also find it interesting
+This project is basically about me learning about HTML, CSS and Bootstrap. i hope you also find it interesting
 
 Thanks! if you feel there's anything that can be done to improve the project kindly reach out to me below,
 to see the project [click me](https://tindog-wheat.vercel.app/)
